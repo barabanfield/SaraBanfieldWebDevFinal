@@ -1,0 +1,86 @@
+/*this will be applied to the about and inddex pages */
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.headcenter{
+    text-align: center;
+}
+
+.into{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.paddingspace{
+    padding-bottom: 20px;
+}
+
+li{
+    padding-bottom: 10px;
+}
+
+.work{
+    font-style: italic;
+    color: gray;
+}
+
+.spacep{
+    line-height: .08px;
+}
+
+.space{
+    line-height: .02px;
+}
+
+.img{
+    background-image: url(http://hd.wallpaperswide.com/thumbs/light_background-t2.jpg);
+}
+
+.indexback {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+
+.pad{
+    border: 8px;
+    border-style: dotted;
+    padding: 15px;
+    padding-top: 15px;
+    border-color: pink;
+}
+
+.cool{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sara{
+    color: pink;
+    text-align: center;
+}
+
+.dallin{
+    font-size: x-large;
+}
+
+.me{
+    font-style: italic;
+    font-size: larger;
+    color: rgb(245, 154, 169);
+}
+
+.idk{
+    color: palevioletred;
+}
+
+.puppy{
+    color: rgb(190, 128, 190);
+}
+
+a:hover{
+    color: white;
+}
+
+a:visited{
+    color: rgb(64, 171, 185);
+}

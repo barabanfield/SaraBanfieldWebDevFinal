@@ -1,0 +1,62 @@
+body{
+    background-color: azure;
+    resize: both;
+}
+
+.tableft{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.tabright{
+
+    text-align: right;
+}
+
+.headright{
+    text-align: right;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.head{
+    font-size: 80px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.peace{
+    font-size: x-large;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.headcenter{
+    text-align: center;
+}
+a:hover{
+    background-color: plum;
+}
+
+a:visited{
+    color: brown;
+}
+
+.work{
+    font-style: italic;
+    color: gray;
+}
+
+.fun{
+    font-style: italic;
+}
+
+footer{
+    background-color: pink;
+}
+
+header{
+    background-color: pink;
+}
